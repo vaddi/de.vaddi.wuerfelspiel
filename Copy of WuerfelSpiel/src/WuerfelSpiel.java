@@ -11,6 +11,10 @@ class WuerfelSpiel {
 			//ar[i] = 0;
 		}
 		
+		/**
+		 * test
+		 * 
+		 */
 		
 		// 4er Push ermitteln und ausgeben
 		for (int z = 0; z < 5; z++) {
