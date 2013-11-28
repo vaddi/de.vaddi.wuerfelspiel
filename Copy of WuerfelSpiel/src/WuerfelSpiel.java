@@ -13,7 +13,7 @@ class WuerfelSpiel {
 		
 		/**
 		 * test
-		 * 
+		 *  
 		 */
 		
 		// 4er Push ermitteln und ausgeben
