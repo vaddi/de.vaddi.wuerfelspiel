@@ -2,6 +2,7 @@ public class Wuerfel {
 
 	private int wert = 0;
 	private int wurf = 0;
+	private int alle = 0;
 	
 	int getWert() {
 		return wert;
